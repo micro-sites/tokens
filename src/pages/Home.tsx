@@ -7,8 +7,9 @@ const HomePage = () => {
 	const { tokens } = useBusiness();
 
 	React.useEffect(() => {
+		if (!tokens) return;
 		console.log('NFTs at Home page: ', tokens);
-	}, []);	
+	}, [tokens]);	
 
   return (
 		<div>
