@@ -24,7 +24,7 @@ const HomePage = () => {
 			<br/><br/><br/>
 			<button
 				onClick={() => {
-					navigateToExternalBrowser('https://3uewhf0ge9.share.vatominc.com/emit/eyJvYmplY3REZWZpbml0aW9uSWQiOiJSWUhFTzgxN21sIiwiY2FtcGFpZ25JZCI6InFYdExVeDYxTkkiLCJkaXN0cmlidXRpb25JZCI6Ilp5NXhTSXQ5M0oifQ%3D%3D?from=Vatom%2520Dev%2520Playground&msg=&login=0')
+					navigateToExternalBrowser('https://3uewhf0ge9.share.vatominc.com/emit/eyJvYmplY3REZWZpbml0aW9uSWQiOiJQQ2xCQjVrVTFiIiwiY2FtcGFpZ25JZCI6IlFIbjM4RXJaQ0EiLCJkaXN0cmlidXRpb25JZCI6InpsblhJeGVUMm0ifQ%3D%3D?from=Vatom%2520Dev%2520Playground&msg=&login=0')
 				}}
 			>
 				Click here to receive a token from this business
