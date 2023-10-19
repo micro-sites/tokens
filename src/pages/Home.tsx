@@ -18,7 +18,7 @@ const HomePage = () => {
   return (
 		<div>
 			<h1>Welcome to the Home page</h1>
-			<p>version 0-0-002</p>
+			<p>version 0-0-003</p>
 			<br/>
 			<Link to="/about"> Click here to go to the About page </Link>
 			<br/><br/><br/>
@@ -32,7 +32,7 @@ const HomePage = () => {
 			<br/><br/><br/>
 			<button
 				onClick={() => {
-					navigateToExternalBrowser('https://github.com/micro-sites/tokens/releases/tag/v-0-0-002')
+					navigateToExternalBrowser('https://github.com/micro-sites/tokens/releases/tag/v-0-0-003')
 				}}
 			>
 				Click here to see source code
