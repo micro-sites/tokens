@@ -18,7 +18,7 @@ const HomePage = () => {
   return (
 		<div>
 			<h1>Welcome to the Home page</h1>
-			<p>version 0-0-005</p>
+			<p>version 0-0-006</p>
 			<br/>
 			<Link to="/about"> Click here to go to the About page </Link>
 			<br/><br/><br/>
